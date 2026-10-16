@@ -1,7 +1,11 @@
 #include <stdio.h>
 
 int main(void) {
-    /* 課題0305: ここに自分で必要なプログラムを書きなさい */
+char c;
+scanf ("%C", &c);
+ printf("%c\n", c);
+
+
     
 
     return 0;
